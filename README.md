@@ -1,4 +1,4 @@
-# Currency Converter
+# Conversordemonedas
 
 Este es un conversor de monedas en Java que utiliza una interfaz gráfica de usuario (GUI) con `JOptionPane` y obtiene las tasas de cambio en tiempo real desde una API. La aplicación permite a los usuarios convertir entre diferentes monedas y manejar errores de entrada de manera amigable.
 
